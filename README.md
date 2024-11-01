@@ -2,7 +2,7 @@
 
 - ![viewfinal]()
 
-- - [Demo Project]()
+- [Demo Project](https://fatemeabdolmaleki.github.io/music-player-js/)
 
 - Created - 2024-11-1
 
