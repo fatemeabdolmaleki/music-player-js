@@ -1,6 +1,6 @@
 # music-player-js
 
-- ![viewfinal]()
+- ![viewfinal](https://github.com/user-attachments/assets/eb6b9412-bc0d-499c-8789-26d7dfb6eb6b)
 
 - [Demo Project](https://fatemeabdolmaleki.github.io/music-player-js/)
 
